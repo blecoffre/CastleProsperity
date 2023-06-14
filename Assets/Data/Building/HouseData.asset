@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d505b4315cc41a42b764247ba077bdf, type: 3}
+  m_Name: HouseData
+  m_EditorClassIdentifier: 
+  _ghostBuilding: {fileID: 3687846107898867301, guid: a14197e2ee469714dad2847bd78a81c4, type: 3}
+  _finalBuilding: {fileID: 3933503949026492833, guid: d5e990b4074355b42b7554898d6e9a59, type: 3}
+  _unlockConditions: []
